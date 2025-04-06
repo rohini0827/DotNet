@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\TShirtOrderingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|d:\\.net\\tshirtorderingapp\\tshirtorderingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|solutionrelative:tshirtorderingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|d:\\.net\\tshirtorderingapp\\tshirtorderingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|solutionrelative:tshirtorderingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|d:\\.net\\tshirtorderingapp\\tshirtorderingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|solutionrelative:tshirtorderingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|d:\\.net\\tshirtorderingapp\\tshirtorderingapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|solutionrelative:tshirtorderingapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|d:\\.net\\tshirtorderingapp\\tshirtorderingapp\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10AA0633-34DE-422E-8D53-D79C3440D5EA}|TShirtOrderingApp\\TShirtOrderingApp.csproj|solutionrelative:tshirtorderingapp\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "TShirtOrderingApp\\Form1.cs",
+              "ToolTip": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.cs",
+              "RelativeToolTip": "TShirtOrderingApp\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:37:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TShirtOrderingApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.Designer.cs",
+              "RelativeToolTip": "TShirtOrderingApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:08:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "TShirtOrderingApp\\Form1.cs",
+              "ToolTip": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.cs [Design]",
+              "RelativeToolTip": "TShirtOrderingApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:15:23.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.resx",
+              "RelativeDocumentMoniker": "TShirtOrderingApp\\Form1.resx",
+              "ToolTip": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\Form1.resx",
+              "RelativeToolTip": "TShirtOrderingApp\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-30T23:10:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorForm.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "TShirtOrderingApp\\CalculatorForm.cs",
+              "ToolTip": "D:\\.NET\\TShirtOrderingApp\\TShirtOrderingApp\\CalculatorForm.cs [Design]",
+              "RelativeToolTip": "TShirtOrderingApp\\CalculatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:41:05.593Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+D:\.NET\Assignment2(3a)\Assignment2(3a)\bin\Debug\Assignment2(3a).dll
+D:\.NET\Assignment2(3a)\Assignment2(3a)\bin\Debug\Assignment2(3a).pdb
+D:\.NET\Assignment2(3a)\Assignment2(3a)\obj\Debug\Assignment2(3a).csproj.AssemblyReference.cache
+D:\.NET\Assignment2(3a)\Assignment2(3a)\obj\Debug\Assignment2(3a).csproj.CoreCompileInputs.cache
+D:\.NET\Assignment2(3a)\Assignment2(3a)\obj\Debug\Assignment2(3a).dll
+D:\.NET\Assignment2(3a)\Assignment2(3a)\obj\Debug\Assignment2(3a).pdb

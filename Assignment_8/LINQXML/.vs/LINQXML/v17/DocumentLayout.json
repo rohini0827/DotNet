@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\LINQXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90AD0976-C523-4820-8E7E-86F1C6A37BF9}|LINQXML\\LINQXML.csproj|d:\\.net\\linqxml\\linqxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AD0976-C523-4820-8E7E-86F1C6A37BF9}|LINQXML\\LINQXML.csproj|solutionrelative:linqxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\LINQXML\\LINQXML\\Program.cs",
+              "RelativeDocumentMoniker": "LINQXML\\Program.cs",
+              "ToolTip": "D:\\.NET\\LINQXML\\LINQXML\\Program.cs",
+              "RelativeToolTip": "LINQXML\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:17:09.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

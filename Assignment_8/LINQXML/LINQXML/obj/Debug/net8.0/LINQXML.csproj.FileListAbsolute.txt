@@ -1,0 +1,14 @@
+D:\.NET\LINQXML\LINQXML\bin\Debug\net8.0\LINQXML.exe
+D:\.NET\LINQXML\LINQXML\bin\Debug\net8.0\LINQXML.deps.json
+D:\.NET\LINQXML\LINQXML\bin\Debug\net8.0\LINQXML.runtimeconfig.json
+D:\.NET\LINQXML\LINQXML\bin\Debug\net8.0\LINQXML.dll
+D:\.NET\LINQXML\LINQXML\bin\Debug\net8.0\LINQXML.pdb
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.AssemblyInfoInputs.cache
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.AssemblyInfo.cs
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.csproj.CoreCompileInputs.cache
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.dll
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\refint\LINQXML.dll
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.pdb
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\LINQXML.genruntimeconfig.cache
+D:\.NET\LINQXML\LINQXML\obj\Debug\net8.0\ref\LINQXML.dll

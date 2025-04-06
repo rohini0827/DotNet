@@ -1,0 +1,10 @@
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\bin\Debug\TShirtOrderingApp.exe.config
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\bin\Debug\TShirtOrderingApp.exe
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\bin\Debug\TShirtOrderingApp.pdb
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.csproj.AssemblyReference.cache
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.Form.resources
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.Properties.Resources.resources
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.csproj.GenerateResource.cache
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.csproj.CoreCompileInputs.cache
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.exe
+D:\.NET\TShirtOrderingApp\TShirtOrderingApp\obj\Debug\TShirtOrderingApp.pdb

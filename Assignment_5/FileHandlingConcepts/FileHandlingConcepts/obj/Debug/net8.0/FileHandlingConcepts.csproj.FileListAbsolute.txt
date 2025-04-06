@@ -1,0 +1,15 @@
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\bin\Debug\net8.0\FileHandlingConcepts.exe
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\bin\Debug\net8.0\FileHandlingConcepts.deps.json
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\bin\Debug\net8.0\FileHandlingConcepts.runtimeconfig.json
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\bin\Debug\net8.0\FileHandlingConcepts.dll
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\bin\Debug\net8.0\FileHandlingConcepts.pdb
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.AssemblyInfoInputs.cache
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.AssemblyInfo.cs
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.csproj.CoreCompileInputs.cache
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.sourcelink.json
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.dll
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\refint\FileHandlingConcepts.dll
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.pdb
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\FileHandlingConcepts.genruntimeconfig.cache
+D:\MScCS\.Net\Assignment_5\FileHandlingConcepts\FileHandlingConcepts\obj\Debug\net8.0\ref\FileHandlingConcepts.dll

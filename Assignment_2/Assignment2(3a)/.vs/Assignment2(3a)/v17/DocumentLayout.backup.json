@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Assignment2(3a)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7C894F-F898-4502-B38C-CECA2CCFEBEF}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|d:\\.net\\assignment2(3a)\\exceptionhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7C894F-F898-4502-B38C-CECA2CCFEBEF}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959A1419-3B24-4F40-B92D-314A1977BC36}|MyOperations\\MyOperations.csproj|d:\\.net\\assignment2(3a)\\myoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959A1419-3B24-4F40-B92D-314A1977BC36}|MyOperations\\MyOperations.csproj|solutionrelative:myoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7C894F-F898-4502-B38C-CECA2CCFEBEF}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|d:\\.net\\assignment2(3a)\\exceptionhandlingdemo\\exceptionhandlingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF7C894F-F898-4502-B38C-CECA2CCFEBEF}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\exceptionhandlingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959A1419-3B24-4F40-B92D-314A1977BC36}|MyOperations\\MyOperations.csproj|D:\\.NET\\Assignment2(3a)\\myoperations\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959A1419-3B24-4F40-B92D-314A1977BC36}|MyOperations\\MyOperations.csproj|solutionrelative:myoperations\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959A1419-3B24-4F40-B92D-314A1977BC36}|MyOperations\\MyOperations.csproj|D:\\.NET\\Assignment2(3a)\\myoperations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959A1419-3B24-4F40-B92D-314A1977BC36}|MyOperations\\MyOperations.csproj|solutionrelative:myoperations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\.NET\\Assignment2(3a)\\MyOperations\\Operations.cs",
+              "RelativeDocumentMoniker": "MyOperations\\Operations.cs",
+              "ToolTip": "D:\\.NET\\Assignment2(3a)\\MyOperations\\Operations.cs",
+              "RelativeToolTip": "MyOperations\\Operations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:45:48.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Assignment2(3a)\\ExceptionHandlingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\Program.cs",
+              "ToolTip": "D:\\.NET\\Assignment2(3a)\\ExceptionHandlingDemo\\Program.cs",
+              "RelativeToolTip": "ExceptionHandlingDemo\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:29:40.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingDemo.csproj",
+              "DocumentMoniker": "D:\\.NET\\Assignment2(3a)\\ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj",
+              "ToolTip": "D:\\.NET\\Assignment2(3a)\\ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj",
+              "RelativeToolTip": "ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T19:48:33.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "D:\\.NET\\Assignment2(3a)\\MyOperations\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "MyOperations\\MyCustomException.cs",
+              "ToolTip": "D:\\.NET\\Assignment2(3a)\\MyOperations\\MyCustomException.cs",
+              "RelativeToolTip": "MyOperations\\MyCustomException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:45:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\.NET\\Assignment2(3a)\\MyOperations\\Class1.cs",
+              "RelativeDocumentMoniker": "MyOperations\\Class1.cs",
+              "ToolTip": "D:\\.NET\\Assignment2(3a)\\MyOperations\\Class1.cs",
+              "RelativeToolTip": "MyOperations\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:44:19.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\.NET\LINQCollection\LINQCollection\bin\Debug\net8.0\LINQCollection.exe
+D:\.NET\LINQCollection\LINQCollection\bin\Debug\net8.0\LINQCollection.deps.json
+D:\.NET\LINQCollection\LINQCollection\bin\Debug\net8.0\LINQCollection.runtimeconfig.json
+D:\.NET\LINQCollection\LINQCollection\bin\Debug\net8.0\LINQCollection.dll
+D:\.NET\LINQCollection\LINQCollection\bin\Debug\net8.0\LINQCollection.pdb
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.AssemblyInfoInputs.cache
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.AssemblyInfo.cs
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.csproj.CoreCompileInputs.cache
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.dll
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\refint\LINQCollection.dll
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.pdb
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\LINQCollection.genruntimeconfig.cache
+D:\.NET\LINQCollection\LINQCollection\obj\Debug\net8.0\ref\LINQCollection.dll

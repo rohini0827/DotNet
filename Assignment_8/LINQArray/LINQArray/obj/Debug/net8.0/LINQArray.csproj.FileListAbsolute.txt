@@ -1,0 +1,14 @@
+D:\.NET\LINQArray\LINQArray\bin\Debug\net8.0\LINQArray.exe
+D:\.NET\LINQArray\LINQArray\bin\Debug\net8.0\LINQArray.deps.json
+D:\.NET\LINQArray\LINQArray\bin\Debug\net8.0\LINQArray.runtimeconfig.json
+D:\.NET\LINQArray\LINQArray\bin\Debug\net8.0\LINQArray.dll
+D:\.NET\LINQArray\LINQArray\bin\Debug\net8.0\LINQArray.pdb
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.AssemblyInfoInputs.cache
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.AssemblyInfo.cs
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.csproj.CoreCompileInputs.cache
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.dll
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\refint\LINQArray.dll
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.pdb
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\LINQArray.genruntimeconfig.cache
+D:\.NET\LINQArray\LINQArray\obj\Debug\net8.0\ref\LINQArray.dll

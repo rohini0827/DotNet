@@ -1,0 +1,17 @@
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.exe
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.deps.json
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.runtimeconfig.json
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.dll
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\bin\Debug\net8.0\Assignment2(3a).dll
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\bin\Debug\net8.0\Assignment2(3a).pdb
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfo.cs
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\Exceptio.9CCF3655.Up2Date
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.dll
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\refint\ExceptionHandlingDemo.dll
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.pdb
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.genruntimeconfig.cache
+D:\.NET\Assignment2(3a)\ExceptionHandlingDemo\obj\Debug\net8.0\ref\ExceptionHandlingDemo.dll

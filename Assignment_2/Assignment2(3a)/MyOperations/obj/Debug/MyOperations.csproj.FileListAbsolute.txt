@@ -1,0 +1,12 @@
+D:\.NET\Assignment2(3a)\MyOperations\bin\Debug\MyOperations.dll
+D:\.NET\Assignment2(3a)\MyOperations\bin\Debug\MyOperations.pdb
+D:\.NET\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.csproj.AssemblyReference.cache
+D:\.NET\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.csproj.CoreCompileInputs.cache
+D:\.NET\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.dll
+D:\.NET\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.pdb
+D:\MScCS\.Net\Assignment_2\Assignment2(3a)\MyOperations\bin\Debug\MyOperations.dll
+D:\MScCS\.Net\Assignment_2\Assignment2(3a)\MyOperations\bin\Debug\MyOperations.pdb
+D:\MScCS\.Net\Assignment_2\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.csproj.AssemblyReference.cache
+D:\MScCS\.Net\Assignment_2\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.csproj.CoreCompileInputs.cache
+D:\MScCS\.Net\Assignment_2\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.dll
+D:\MScCS\.Net\Assignment_2\Assignment2(3a)\MyOperations\obj\Debug\MyOperations.pdb

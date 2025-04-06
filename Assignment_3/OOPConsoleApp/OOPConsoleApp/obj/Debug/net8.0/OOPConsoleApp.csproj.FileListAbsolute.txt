@@ -1,0 +1,17 @@
+D:\.NET\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.exe
+D:\.NET\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.dll
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.exe
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.deps.json
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.runtimeconfig.json
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.dll
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\bin\Debug\net8.0\OOPConsoleApp.pdb
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.AssemblyInfoInputs.cache
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.AssemblyInfo.cs
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.csproj.CoreCompileInputs.cache
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.sourcelink.json
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.dll
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\refint\OOPConsoleApp.dll
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.pdb
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\OOPConsoleApp.genruntimeconfig.cache
+D:\MScCS\.Net\Assignment_3\OOPConsoleApp\OOPConsoleApp\obj\Debug\net8.0\ref\OOPConsoleApp.dll
